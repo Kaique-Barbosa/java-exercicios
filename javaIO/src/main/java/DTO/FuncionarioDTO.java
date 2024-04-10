@@ -9,7 +9,8 @@ package DTO;
  * @author Aluno
  */
 public class FuncionarioDTO {
-    private String nomeFuncionario, cidadeFuncionario;
+    private String nomeFuncionario,
+                   cidadeFuncionario;
 
     public String getNomeFuncionario() {
         return nomeFuncionario;
